@@ -1,2 +1,2 @@
 # BasicDevAssignment-MergeConflicts
-This is from GitHub
+This is from local repo
